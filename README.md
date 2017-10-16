@@ -6,12 +6,10 @@ A 2.5d open world rogue-light within a persistent world, with metroidvania eleme
 ### Perma-death: 
 ```
 Once a character is dead he or she will stay dead, for the most part. There are ways to bring back dead characters if one truly wishes.
-
 ```
 ### Randomly-generated characters: 
 ```
 Each time a hero falls, another shall take thy place. Heroes come equipped with different abilities, starting equipment and character traits. On one instance, you could play as a demi-god who has lightning powers, on the other hand, you could play as a scrub with no useful traits.
-
 ```
 ### Exploration: 
 ```
